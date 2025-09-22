@@ -1,6 +1,6 @@
 - I build with DLTs/Blockchain
 - Open to new projects
-- [LinkedIn](https://www.linkedin.com/in/vidalpaulo)
+- [LinkedIn](https://www.linkedin.com/in/pxlvre)
 - EN | FR | ES
 
 
