@@ -4,4 +4,4 @@
 - EN | FR | ES
 
 
- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vidalpaul&layout=compact&theme=transparent)
+ ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pxlvre&layout=compact&theme=transparent)
