@@ -4,4 +4,4 @@
 - EN | FR | ES
 
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pxlvre&layout=compact&theme=transparent&hide=html,css,makefile,shell,javascript,dockerfile,latex,perl,sql,plpgsql,bash,zsh,yaml,yml,jsx,mjs,json,markdown,md,xml,ini,toml,coffeescript,batchfile,cmd&langs_count=10)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pxlvre&layout=compact&theme=transparent&hide=html,css,makefile,shell,javascript,dockerfile,latex,perl,sql,plpgsql,bash,zsh,yaml,yml,jsx,mjs,json,markdown,md,xml,ini,toml,coffeescript,batchfile,cmd&langs_count=10&hide_title=true&hide_border=true)
