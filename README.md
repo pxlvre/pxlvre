@@ -1,6 +1,6 @@
 - I build with DLTs/Blockchain
 - Open to new projects
-- [LinkedIn](https://www.linkedin.com/in/pxlvre)
+- Also on [radicle](https://app.radicle.xyz/nodes/rosa.radicle.xyz/users/z6MknfcSqyoVUhzJFLvPNB3e5dK72uVUt5kYBfnieCs8XfPH), [LinkedIn](https://www.linkedin.com/in/pxlvre)
 - EN | FR | ES
 
 
