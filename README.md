@@ -1,5 +1,5 @@
-- I build with blockchain & DLTs
-- also on [radicle](https://app.radicle.xyz/nodes/rosa.radicle.xyz/users/z6MknfcSqyoVUhzJFLvPNB3e5dK72uVUt5kYBfnieCs8XfPH), [linkedIn](https://www.linkedin.com/in/pxlvre)
+- building with blockchain & DLTs
+- on [radicle](https://app.radicle.xyz/nodes/rosa.radicle.xyz/users/z6MknfcSqyoVUhzJFLvPNB3e5dK72uVUt5kYBfnieCs8XfPH), [linkedIn](https://www.linkedin.com/in/pxlvre)
 - en | fr | es
 
 <!--
